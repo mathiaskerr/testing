@@ -38,5 +38,5 @@ def cards_total(self, cards):
     total += card.value
     return "You have a total of" + total
   
-  #total should = 0. return is indented wrong, it should be after the for loop npt in it.
+  #total should = 0 in line 36. return is indented wrong, it should be after the for loop not in it. the whole function is indented wrong making it sit outside the class
 ```
